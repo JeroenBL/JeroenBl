@@ -1,8 +1,17 @@
 ### Hi there 👋
+- 🔭 I’m currently working on a few PowerShell Connectors
+- 💬 Ask me about anything! always happy to help
+ 
+ ### Github Stats
+[![Stats](https://github-readme-stats.vercel.app/api?username=JeroenBl&theme=dark)](https://github.com/JeroenBl/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroenBl)](https://github.com/JeroenBl/github-readme-stats)
+
+### Technologies
+![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=PowerShell&logoColor=white&color=2bbc8a)
 
 <!--
-**JeroenBl/JeroenBl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**mufana/mufana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
