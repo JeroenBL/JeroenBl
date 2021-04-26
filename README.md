@@ -1,7 +1,13 @@
-### Hi there 👋
-- 🔭 I’m currently working on a few PowerShell Connectors
-- 💬 Ask me about anything! always happy to help
- 
+## Hi there 👋
+🔭 I’m always tinkering with PowerShell and C# stuff
+🌱 I’m currently learning ASP.NET. (API's, Blazor) You can to! https://github.com/csharpfritz
+💬 Ask me about anything! always happy to help
+
+## Looking for some help with HelloID?
+
+- Check our forum: http://forum.helloid.com/
+- Or our docs page: https://docs.helloid.com/
+
  ### Github Stats
 [![Stats](https://github-readme-stats.vercel.app/api?username=JeroenBl&theme=dark)](https://github.com/JeroenBl/github-readme-stats)
 
