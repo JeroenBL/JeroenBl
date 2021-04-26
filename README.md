@@ -6,6 +6,9 @@
 - 🌱 I’m currently learning ASP.NET. (API's, Blazor) 
 - 💬 Ask me about anything! always happy to help
 
+### Me winning a football game!
+![lego](https://raw.githubusercontent.com/JeroenBl/JeroenBl/master/winning.png)
+
 ### Looking for some help with HelloID?
 
 - Check our forum: http://forum.helloid.com/
