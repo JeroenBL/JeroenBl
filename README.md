@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning ASP.NET. (API's, Blazor) 
 - 💬 Ask me about anything! always happy to help
 
-## Looking for some help with HelloID?
+### Looking for some help with HelloID?
 
 - Check our forum: http://forum.helloid.com/
 - Or our docs page: https://docs.helloid.com/
