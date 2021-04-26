@@ -1,7 +1,7 @@
-## Hi there 👋
-🔭 I’m always tinkering with PowerShell and C# stuff
-🌱 I’m currently learning ASP.NET. (API's, Blazor) You can to! https://github.com/csharpfritz
-💬 Ask me about anything! always happy to help
+### Hi there 👋
+- 🔭 I’m always tinkering with PowerShell and C# stuff
+- 🌱 I’m currently learning ASP.NET. (API's, Blazor) 
+- 💬 Ask me about anything! always happy to help
 
 ## Looking for some help with HelloID?
 
