@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-### I work on the connector team at https://github.com/Tools4everBV
+#### I work on the connector team at https://github.com/Tools4everBV, creating connectors for you to use in HelloID.
 
-- 🔭 I’m always tinkering with PowerShell and C# stuff
-- 🌱 I’m currently learning ASP.NET. (API's, Blazor) 
+- 🔭 When I'm not working, you will find me tinkering with C# / PowerShell and recently; TypeScript
+- 🌱 I’m currently learning TypeScript
 - 💬 Ask me about anything! always happy to help
-- ⚡ Fun fact: 
 
 ![lego](https://raw.githubusercontent.com/JeroenBl/JeroenBl/master/winning.png)
 
