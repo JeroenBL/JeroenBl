@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about anything! always happy to help
 
-![lego](https://raw.githubusercontent.com/JeroenBl/JeroenBl/master/winning.png)
-
 ### Looking for some help with HelloID?
 
 - Check our forum: http://forum.helloid.com/
