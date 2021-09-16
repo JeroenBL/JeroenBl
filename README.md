@@ -1,17 +1,18 @@
 ### Hi there 👋
 
-#### I work on the connector team at https://github.com/Tools4everBV, creating connectors for you to use in [HelloID](https://www.tools4ever.com/software/helloid-idaas-cloud-single-sign-on/)
+My name is Jeroen, I work on the connector team at [Tools4ever](https://github.com/Tools4everBV). 
 
-- 🔭 When I'm not working, you will find me tinkering with C# / PowerShell and recently; TypeScript
+- 🔭 Most of my time is dedicated to the development of connectors that you can use in [HelloID](https://www.tools4ever.com/software/helloid-idaas-cloud-single-sign-on/) 
+- ⚡ When I'm not working, you will find me tinkering with C# / PowerShell and recently; TypeScript
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about anything! always happy to help
 
-### Looking for some help with HelloID?
+### Looking for help with HelloID
 
-- Check our forum: http://forum.helloid.com/
-- Or our docs page: https://docs.helloid.com/
+- 👯 Check our forum: http://forum.helloid.com/
 
  ### Github Stats
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=JeroenBl&theme=dark)](https://github.com/JeroenBl/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroenBl)](https://github.com/JeroenBl/github-readme-stats)
