@@ -1,4 +1,4 @@
-![welcome](./jeroen.gif)
+![welcome](./j.gif)
 
 ### Hi there 👋
 
