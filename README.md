@@ -4,23 +4,12 @@
 
 My name is Jeroen, I work on the connector team at [Tools4ever](https://github.com/Tools4everBV). 
 
-
 - 🔭 Most of my time is dedicated to the development of connectors that you can use in [HelloID](https://www.tools4ever.com/software/helloid-idaas-cloud-single-sign-on/) 
 - ⚡ When I'm not working, you will find me tinkering with C# / PowerShell and recently; TypeScript
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about anything! always happy to help
 
-### Looking for help with HelloID
-
-- 👯 Check our forum: http://forum.helloid.com/
-
- ### Github Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=JeroenBl&theme=dark)](https://github.com/JeroenBl/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroenBl)](https://github.com/JeroenBl/github-readme-stats)
-
-### Technologies
+### 🧰 Technologies
 
 | Languages     | OS | Other |
 | ------------ | ------------ | ------------ |
@@ -29,6 +18,19 @@ My name is Jeroen, I work on the connector team at [Tools4ever](https://github.c
 | ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) |
 | ![](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
+### Github Stats
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=JeroenBl&theme=dark)](https://github.com/JeroenBl/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroenBl)](https://github.com/JeroenBl/github-readme-stats)
+
+#
+
+### Looking for help with HelloID
+
+- 👯 Check our forum: http://forum.helloid.com/
+
+#
 
 <!--
 **mufana/mufana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
