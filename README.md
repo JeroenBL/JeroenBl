@@ -17,14 +17,6 @@ My name is Jeroen, I work on the connector team at [Tools4ever](https://github.c
 
 **Check our forum: http://forum.helloid.com/**
 
-#
-
-### Github Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=JeroenBl&theme=dark)](https://github.com/JeroenBl/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroenBl)](https://github.com/JeroenBl/github-readme-stats)
-
 ---
 
 <!--
