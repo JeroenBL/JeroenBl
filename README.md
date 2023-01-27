@@ -14,7 +14,7 @@
 #### 🧰 Technologies
 ![](https://img.shields.io/badge/-PowerShell-blue.svg) ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=38C2FF&multiline=true&repeat=false&width=500&height=60&lines=Looking+for+help+with+HelloID%3F;Check+our+forum%3A+http%3A%2F%2Fforum.helloid.com%2F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=38C2FF&multiline=true&repeat=false&width=500&height=60&lines=Looking+for+help+with+HelloID%3F;Check+our+forum%3A+http%3A%2F%2Fforum.helloid.com%2F)](forum.helloid.com)
 
 <!--
 **mufana/mufana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
