@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=100&color=38C2FF&width=500&lines=Hi+there+%F0%9F%91%8B;My+name+is+Jeroen;I+work+on+the+connector+team+at+Tools4Ever+B.V.;If+you+are+interested+in+following+me...;You'll+know+what+to+do!+)](https://git.io/typing-svg)
 
+![dev](./j.png)
+
 - 🔭 Most of my time is dedicated to the development of connectors that you can use in [HelloID](https://www.tools4ever.com/software/helloid-idaas-cloud-single-sign-on/) 
 - ⚡ When I'm not working, you will find me tinkering with C# / PowerShell and recently; TypeScript
 - 🌱 I’m currently learning TypeScript
