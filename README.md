@@ -19,6 +19,10 @@
 ### Looking for help with HelloID?
 Check our forum https://forum.helloid.com or https://docs.helloid.com/hc/en-us
 
+### Or my blog
+
+Sometimes I try to write a blog post. If you want to check them out, see: https://jeroenbl.github.io/
+
 Happy HelloID'ing! 
 
 <!--
