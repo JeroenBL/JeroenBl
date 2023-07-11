@@ -16,14 +16,14 @@
 #### 🧰 Technologies
 ![](https://img.shields.io/badge/-PowerShell-blue.svg) ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 
-### Looking for help with HelloID?
-Check our forum https://forum.helloid.com or https://docs.helloid.com/hc/en-us
+### HelloID forum
+If you have questions or if you need help with HelloID, make sure to visit our forum. https://forum.helloid.com or https://docs.helloid.com/hc/en-us
 
-### Or my blog
+### HelloID connectors
+For an overview of all available connectors for HelloID: https://www.tools4ever.nl/connectoren/
 
-Sometimes I try to write a blog post. If you want to check them out, see: https://jeroenbl.github.io/
-
-Happy HelloID'ing! 
+### Blog
+https://jeroenbl.github.io/
 
 <!--
 **mufana/mufana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
