@@ -20,7 +20,7 @@
 
 #### Available connectors
 
-- ttps://github.com/orgs/Tools4everBV/repositories
+- https://github.com/orgs/Tools4everBV/repositories
 - https://www.tools4ever.nl/connectoren/
 
 #### Recently build connectors
