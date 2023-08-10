@@ -1,8 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;My+name+is+Jeroen.;I+work+on+the+connector+team+at+Tools4ever.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36A7D5&center=true&vCenter=true&multiline=true&repeat=false&width=520&height=110&lines=Hi%2C+my+name+is+Jeroen+%F0%9F%91%8B;I+work+on+the+connector+team+at+Tools4ever.;More+about+me+...+;%E2%AC%87%EF%B8%8F+)](https://git.io/typing-svg)
 
+- 🛠️ Toolmaker 
 - 🔭 Most of my time is dedicated to the development of connectors that you can use in [HelloID](https://www.tools4ever.com/software/helloid-idaas-cloud-single-sign-on/) 
 - ⚡ When I'm not working, you will find me tinkering with C# / PowerShell and recently; TypeScript
 - 💬 Ask me about anything! always happy to help
+- ⬇️ This is me. Just finished a new connector 🚀
 
 ![dev](./j.png)
 
@@ -12,7 +14,16 @@
 
 ### 🧰 Technologies
 
-![](https://img.shields.io/badge/-PowerShell-blue.svg) ![](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) ![](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![](https://img.shields.io/badge/macOS-blue?logo=apple)
+![](https://img.shields.io/badge/Ubuntu-black?logo=Ubuntu)
+![](https://img.shields.io/badge/Windows-blue?logo=Windows)
+![](https://img.shields.io/badge/PowerShell-black?logo=powershell)
+![](https://img.shields.io/badge/csharp-purple?logo=dotnet)
+![](https://img.shields.io/badge/typescript-black?logo=typescript)
+![](https://img.shields.io/badge/Markdown-orange?logo=Markdown)
+![](https://img.shields.io/badge/mongodb-black?logo=mongodb)
+![](https://img.shields.io/badge/sql-black?logo=sqlite)
+![](https://img.shields.io/badge/docker-black?logo=docker)
 
 ### HelloID
 
@@ -22,14 +33,6 @@
 
 - https://github.com/orgs/Tools4everBV/repositories
 - https://www.tools4ever.nl/connectoren/
-
-#### Recently build connectors
-
-|Name|Repo|
---|--|
-Zivver | https://github.com/Tools4everBV/HelloID-Conn-Prov-Target-Zivver |
-Zermelo | https://github.com/Tools4everBV/HelloID-Conn-Prov-Target-Zermelo |
-OutSystems | https://github.com/Tools4everBV/HelloID-Conn-Prov-Target-OutSystems-RoleManagement
 
 ### Blog
 
