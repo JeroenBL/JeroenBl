@@ -12,7 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Generate readme
+      - name: Generate infoSVG
+        shell: pwsh
         run: . ./updateInfoSVG.ps1
         
       - name: Commit changes
