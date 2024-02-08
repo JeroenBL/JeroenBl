@@ -6,5 +6,4 @@ if (($today -eq 'Saturday') -or ($today -eq 'Sunday')){
 $currentDay = $today.ToString().ToLower()
 
 $svgContent = $svgContent.replace("{day}", $currentDay)
-$svgContent = $svgContent.replace("{000}", $publicRepos)
 $svgContent | Set-Content ./infoUpdated.svg -Encoding utf8 -Force
