@@ -7,6 +7,6 @@ $currentDay = $today.ToString().ToLower()
 
 $publicRepos = (irm https://api.github.com/orgs/Tools4everBV).public_repos
 
-$svgContent = $svgContent.replace("{dayOfWeek}", $currentDay)
+$svgContent = $svgContent.replace("{day}", $currentDay)
 $svgContent = $svgContent.replace("{000}", $publicRepos)
 $svgContent | Set-Content ./infoUpdated.svg -Encoding utf8 -Force
