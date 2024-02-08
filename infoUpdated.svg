@@ -40,7 +40,39 @@
         <g transform="matrix(1,0,0,1,-9.10215,216.181)">
             <g transform="matrix(28,0,0,28,751.151,441.932)">
             </g>
+<<<<<<< HEAD
             <text x="517.731px" y="441.932px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28px;fill:white;">Thanks for visiting!</text>
+=======
+            <text x="328.902px" y="238.265px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:18px;">I&apos;m always happy to help!</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-9.1419,85.8264)">
+            <g transform="matrix(12,0,0,12,346.697,233.97)">
+            </g>
+            <text x="328.902px" y="233.97px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:12px;">P.S</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-10.3381,100.729)">
+            <g transform="matrix(12,0,0,12,523.679,233.97)">
+            </g>
+            <text x="328.902px" y="233.97px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:12px;">There are currently 421 connectors</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-11.8611,1.36184)">
+            <g transform="matrix(18,0,0,18,483.959,238.265)">
+            </g>
+            <text x="328.902px" y="238.265px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:18px;">Thanks for visiting!</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-9.39575,20.1361)">
+            <g transform="matrix(18,0,0,18,547.697,238.265)">
+            </g>
+            <text x="328.902px" y="238.265px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:18px;">Have a great thursday!</text>
+        </g>
+        <g id="badge.png" transform="matrix(0.541532,0,0,0.541532,62.2618,182.802)">
+            <use xlink:href="#_Image2" x="0" y="0" width="640px" height="480px"/>
+        </g>
+        <g transform="matrix(1,0,0,1,-9.747,-38.4954)">
+            <g transform="matrix(18,0,0,18,530.444,238.265)">
+            </g>
+            <text x="328.902px" y="238.265px" style="font-family:'Arial-ItalicMT', 'Arial', sans-serif;font-style:italic;font-size:18px;">I&apos;m always happy to help!</text>
+>>>>>>> db195607c4bbe58c66aa24a6adaab8f084ec05f7
         </g>
     </g>
 </svg>

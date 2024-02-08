@@ -15,7 +15,7 @@ jobs:
       - name: Generate infoSVG
         shell: pwsh
         run: . ./updateInfoSVG.ps1
-        
+
       - name: Commit changes
         uses: EndBug/add-and-commit@v4
         with:
